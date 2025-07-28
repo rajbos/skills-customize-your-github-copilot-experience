@@ -6,6 +6,10 @@ Build the classic word-guessing game using Python strings, loops, and user input
 
 ## Tasks
 
+## 🎯 Objective
+
+## 📝 Tasks
+
 ### Task 1: Game Setup
 **Description**: Create a Python program that initializes the Hangman game.
 **Requirements**:
